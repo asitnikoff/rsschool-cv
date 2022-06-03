@@ -32,3 +32,8 @@ function multiply(a, b) {
 
 ## Education
 In 2021 I entered in BSUIR of faculty of Computer-Aided Design.
+
+## Language
+
+* *Russian*: native
+* *English*: A2 (maybe B1)
