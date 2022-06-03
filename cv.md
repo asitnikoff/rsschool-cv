@@ -15,3 +15,9 @@
 I'm a freshman in BSUIR on faculty of Computer-Aided Design. In the 8-th form of my school I started to participate in competitive programming olympiads. Have some experience in **JSP**, **Django** and **C++**.
 
 I'm currently taking courses in Front-end development, wanting to try something new for myself.
+
+## Skills
+
+* Django, JSP
+* C++, Python (basics), Java (basics), Pascal, JavaScript (basics)
+* Git, SVN
