@@ -21,3 +21,11 @@ I'm currently taking courses in Front-end development, wanting to try something 
 * Django, JSP
 * C++, Python (basics), Java (basics), Pascal, JavaScript (basics)
 * Git, SVN
+
+## Code example
+
+```
+function multiply(a, b) {
+  return a * b;
+}
+```
