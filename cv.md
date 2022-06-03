@@ -29,3 +29,6 @@ function multiply(a, b) {
   return a * b;
 }
 ```
+
+## Education
+In 2021 I entered in BSUIR of faculty of Computer-Aided Design.
