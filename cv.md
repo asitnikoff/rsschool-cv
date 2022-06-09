@@ -1,6 +1,6 @@
 # Aleksei Sitnikov
 
-### Beginner frontend developer
+## Beginner frontend developer
 
 ## Contact information
 
@@ -35,9 +35,11 @@ function multiply(a, b) {
 
 ## Education
 
-In 2020, I was trained in "Intensive Programming" in the field of "sports programming" as part of the RuCode Festival online educational festival.
+2020: "Intensive Programming" in the field of "sports programming" as part of the "RuCode Festival" - online educational festival.
 
-I am currently studying at the Belarusian State University of Informatics and Radioelectronics at the Department of Computer-Aided Design.
+2021 - present: Belarusian State University of Informatics and Radioelectronics - Department of Computer-Aided Design.
+
+2022 - present: RS School - JavaScript/Front-end developer
 
 ## Language
 
