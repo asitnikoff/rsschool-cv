@@ -23,6 +23,7 @@ So I'm currently taking courses in Front-end development, wanting to try somethi
 * Django, JSP
 * C++, Python (basics), Java (basics), Pascal, JavaScript (basics)
 * Git, SVN
+* Linux (basics)
 
 ## Code example
 
