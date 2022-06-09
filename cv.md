@@ -14,7 +14,9 @@
 
 I'm a freshman in BSUIR on faculty of Computer-Aided Design. In the 8-th form of my school I started to participate in competitive programming olympiads. Have some experience in **JSP**, **Django** and **C++**.
 
-I'm currently taking courses in Front-end development, wanting to try something new for myself.
+Because of my good learning ability and positivity, I can fit into any team. I will not be bored :)
+
+So I'm currently taking courses in Front-end development, wanting to try something new for myself.
 
 ## Skills
 
