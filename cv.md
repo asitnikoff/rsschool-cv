@@ -4,7 +4,7 @@
 
 ## Contact information
 
-* Location: Gomel, Belarus
+* Location: Minsk, Belarus
 * Phone: +123 (45) 678-90-12
 * E-mail: alexsitnikov2003@gmail.com
 * Discord (rs-school): Aleksei Sitnikov (@asitnikoff)
