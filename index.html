@@ -8,24 +8,28 @@
     <title>CV</title>
 </head>
 <body>
-    <header>
+    <header class="header">
         <nav>
-            <ul class="navigation-list center">
-                <li><a href="#contacts">Contacts</a></li>
-                <li><a href="#about">About me</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#code">Code example</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#education">Education</a></li>
-                <li><a href="#language">Language</a></li>
+            <ul class="nav__list">
+                <li><a class="nav__link" href="#contacts">Contacts</a></li>
+                <li><a class="nav__link" href="#about">About me</a></li>
+                <li><a class="nav__link" href="#skills">Skills</a></li>
+                <li><a class="nav__link" href="#code">Code example</a></li>
+                <li><a class="nav__link" href="#projects">Projects</a></li>
+                <li><a class="nav__link" href="#education">Education</a></li>
+                <li><a class="nav__link" href="#language">Language</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <section>
-            <img src="assets/jpg/logo.png" alt="my-logo" />
-            <h1>Aleksei Sitnikov</h1>
-            <h2>Very Junior Front-end developer</h2>
+        <section class="section-intro">
+            <div class="section-intro__photo">
+                <img src="assets/jpg/logo.png" alt="my-logo">
+            </div>
+            <div class="section-intro__name">
+                <h1>Aleksei <span class="lastname">Sitnikov</span></h1>
+                <h2>Very Junior Front-end developer</h2>
+            </div>
         </section>
         <section id="contacts">
             <h2>Contacts</h2>
@@ -35,7 +39,7 @@
                 <li>E-mail: alexsitnikov2003@gmail.com</li>
                 <li>Discord (rs-school): Aleksei Sitnikov (@asitnikoff)</li>
                 <li>
-                    <a href="https://www.linkedin.com/in/aleksei-sitnikov-2b5638212/">LinkedIn</a>
+                    <a class="linkedin" href="https://www.linkedin.com/in/aleksei-sitnikov-2b5638212/">LinkedIn</a>
                 </li>
                 <li>Telegram: @a_sitnikoff</li>
             </ul>
