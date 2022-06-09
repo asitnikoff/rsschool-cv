@@ -34,6 +34,10 @@ function multiply(a, b) {
 }
 ```
 
+## Projects
+
+* [RS School CV](https://asitnikoff.github.io/rsschool-cv/)
+
 ## Education
 
 2020: "Intensive Programming" in the field of "sports programming" as part of the "RuCode Festival" - online educational festival.
