@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm a freshman in BSUIR on faculty of Computer-Aided Design. In the 8-th form of my school I started to participate in competitive programming olympiads. Have some experience in **JSP**, **Django** and **C++**.
+I'm a freshman in BSUIR on faculty of Computer-Aided Design. In the 8-th form of my school I started to participate in competitive programming olympiads. Have some experience in frameworks such as **JSP** and **Django**.
 
 Because of my good learning ability and positivity, I can fit into any team. I will not be bored :)
 
