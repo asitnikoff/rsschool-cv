@@ -26,7 +26,7 @@ So I'm currently taking courses in Front-end development, wanting to try somethi
 
 ## Code example
 
-```
+```javascript
 function multiply(a, b) {
   return a * b;
 }
