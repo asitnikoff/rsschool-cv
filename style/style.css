@@ -1,0 +1,198 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 37px;
+}
+
+body {
+    height: 100%;
+}
+
+header {
+    background-color: rgb(209, 78, 78);
+}
+
+main {
+    flex: 1 1 auto;
+}
+
+.nav__list {
+    text-align: center;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.nav__list li {
+    font-size: 20px;
+    padding: 0 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.nav__link {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    transition: color .2s linear;
+}
+
+.nav__link:hover {
+    color: orange;
+}
+
+.linkedin {
+    text-decoration: underline;
+    color: blue;
+}
+
+.section-intro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lastname {
+    color: rgb(209, 78, 78);
+}
+
+.section__about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.section__contacts-skills {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#contacts, #skills, #education, #language {
+    max-width: 400px;
+    width: 100%;
+}
+
+#contacts h2 {
+    text-align: center;
+}
+
+#skills h2 {
+    text-align: center;
+}
+
+#education h2 {
+    text-align: center;
+}
+
+#language h2 {
+    text-align: center;
+}
+
+.section__education-language {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+pre {
+    font-size: 14px;
+}
+
+.section-code {
+    display: flex;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.section-projects {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+/* footer {
+    height: 40px;
+    background-color: rgb(209, 78, 78);
+
+    position: relative;
+    bottom: 0;
+    width: 100%;
+} */
+
+footer {
+    height: 50px;
+    background: rgb(209, 78, 78)/*#f7f7f7*/;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer__text {
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.create-year {
+    font-size: 34px;
+}
+
+/*
+* {
+    margin: 0;
+}
+
+body {
+    height: 100%;
+    min-width: 900px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+main {
+    padding-bottom: 100px;
+}
+
+footer {
+    height: 50px;
+    background: #f7f7f7;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer__text {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+*/
