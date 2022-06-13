@@ -1,1 +1,121 @@
-My first CV!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/normalize.css">
+    <link rel="stylesheet" href="style/style.css">
+    <title>CV</title>
+</head>
+<body>
+    <header class="header">
+        <nav>
+            <ul class="nav__list">
+                <li><a class="nav__link" href="#about">About me</a></li>
+                <li><a class="nav__link" href="#contacts">Contacts</a></li>
+                <li><a class="nav__link" href="#skills">Skills</a></li>
+                <li><a class="nav__link" href="#code">Code example</a></li>
+                <li><a class="nav__link" href="#projects">Projects</a></li>
+                <li><a class="nav__link" href="#education">Education</a></li>
+                <li><a class="nav__link" href="#language">Language</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="section-intro">
+            <div class="section-intro__photo">
+                <img src="assets/jpg/logo.png" alt="my-logo">
+            </div>
+            <div class="section-intro__name">
+                <h1>Aleksei <span class="lastname">Sitnikov</span></h1>
+                <h2>Very Junior Front-end developer</h2>
+            </div>
+        </section>
+        <br>
+        <section>
+            <div class="section__about" id="about">
+                <h2>About me</h2>
+                <p>I'm a freshman in BSUIR on faculty of Computer-Aided Design. In the 8-th form of my school I started to participate in competitive programming olympiads. Have some experience in frameworks such as JSP and Django.
+                Because of my good learning ability and positivity, I can fit into any team. I will not be bored :)
+                So I'm currently taking courses in Front-end development, wanting to try something new for myself.</p>
+            </div>
+        </section>
+        <br>
+        <section class="section__contacts-skills">
+            <div id="contacts">
+                <h2>Contacts</h2>
+                <ul>
+                    <li>Location: Minsk, Belarus</li>
+                    <li>Phone: +123 (45) 678-90-12</li>
+                    <li>E-mail: alexsitnikov2003@gmail.com</li>
+                    <li>Discord (rs-school): Aleksei Sitnikov (@asitnikoff)</li>
+                    <li>
+                        <a class="linkedin" href="https://www.linkedin.com/in/aleksei-sitnikov-2b5638212/">LinkedIn</a>
+                    </li>
+                    <li>
+                        <a class="telegram" href="https://t.me/a_sitnikoff">Telegram</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>Django, JSP</li>
+                    <li>C++, Python (basics), Java (basics), Pascal, JavaScript (basics)</li>
+                    <li>Git, SVN</li>
+                    <li>Linux (basics)</li>
+                </ul>
+            </div>
+        </section>
+        <br>
+        <section class="section__education-language">
+            <div id="education">
+                <h2>Education</h2>
+                <ul>
+                    <li>2020: "Intensive Programming" in the field of "sports programming" as part of the "RuCode Festival" - online educational festival.</li>
+                    <li>2021 - present: Belarusian State University of Informatics and Radioelectronics - Department of Computer-Aided Design.</li>
+                    <li>2022 - present: RS School - JavaScript/Front-end developer</li>
+                </ul>
+            </div>
+            <div id="language">
+                <h2>Language</h2>
+                <ul>
+                    <li>Russian: native</li>
+                    <li>English: A2 (maybe B1)</li>
+                </ul>
+            </div>
+        </section>
+        <br>
+        <section class="section-code" id="code">
+            <h2>Code example: </h2>
+            <pre>
+            function multiply(a, b) {
+                return a * b;
+            }
+            </pre>
+        </section>
+        <section class="section-projects" id="projects">
+            <h2>Projects</h2>
+            <br>
+            <ul>
+                <li>
+                    <a href="https://asitnikoff.github.io/rsschool-cv/">RS School CV</a>
+                    (<a href="https://github.com/asitnikoff/rsschool-cv/tree/gh-pages">исходный код</a>)
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <div class="footer__text">
+            <div class="create-year">2022</div>
+            <a class="nav__link" href="https://github.com/asitnikoff">
+                Github: asitnikoff
+            </a>
+            <a href="https://rs.school/js/" class="logo">
+                <img src="assets/jpg/rss.svg" alt="rss-logo" width="55" height="55">
+            </a>
+        </div>
+    </footer>
+</body>
+</html>
